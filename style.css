@@ -235,3 +235,30 @@ display:inline-block;
 #oey{
     display: inline-block;
 }
+.step07{
+    width:400px;
+    border:solid white ;
+    margin: 10px;
+    padding: 5px;
+    background-color: white; 
+    display:inline-block;  
+}
+#eys{
+    text-align: center;
+    float:right 40px;
+    object-fit: fill;
+}
+.inlie{
+    display:inline-block; 
+}
+.inlye{
+    display:inline-block; 
+}
+.blue{
+    background-color:#E6E6FA ;
+  margin: 20px;
+}
+.pink{
+    background-color:#E6E6FA ;
+    margin: 25px;
+}
