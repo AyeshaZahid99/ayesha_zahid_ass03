@@ -1,0 +1,227 @@
+/* 
+ @media only  screen and (max-width:600px){
+  h1,img{ width: 400px;
+    }
+
+ }
+
+ @media only screen and (max-width:400px){
+    h1,img{
+         width:200px;
+     }
+ }
+.one,.two,.three{
+    border:3px  solid  blueviolet;
+   
+
+}
+.main{
+    display:flex; 
+    flex-direction:row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.one{
+    flex:2;
+}
+.two{
+    flex:3;
+}
+.three{
+    flex:2;
+}  */
+/* .main{
+    background-color: #1E90FF;
+/* } */
+                   /* class#04 
+h1{
+    color:red;
+}
+#raw{
+    background-color:blueviolet;
+    opacity:0.5;
+}
+p b{
+    color:pink;
+}  */
+
+               /* class#05  "type faces" 
+
+               /* #cow{
+                   font-family: cursive;
+                   font-size: 72pt;
+                font-style: italic; */
+                /*em is simply the width of leter "m" */ 
+
+                /*agar koi font download kregy tou */
+                /* @font-face {
+                    font-family: ;
+                    src: url();
+                /* }
+                 */
+                 /* font-weight: normal; */
+               /* }
+.there{
+    text-decoration-line: overline  !important;
+    text-decoration-line: underline;
+    text-decoration-color: lawngreen;
+   \imp  text-indent: initial;
+    text-transform: uppercase;
+    line-height: 30px;
+    /* letter-spacing: 30px; */
+    /* word-wrap: break-word !important;
+    white-space: pre-wrap;
+    text-align: justify;
+} */ 
+
+body{
+    background-color:  	#E6E6FA;
+}
+.main{
+    color:whitesmoke;
+    background-color:  	#0000CD;
+    width: auto;
+    display:inline-block;
+}
+
+.main .one {
+    float: left;
+    padding: 10px;
+    display:inline-block;
+    
+}
+
+.main .two{
+   text-align: center;
+   display:inline-block;
+}
+
+.main .three {
+text-indent: right;
+float: right;
+display:inline-block;
+}
+
+.sub01{
+    display:inline-block;
+}
+
+.sub01 .four{
+   padding: 5px;
+   margin: 50px;
+   display:inline-block;
+}
+
+.sub01 .five{
+   
+    display:inline-block;
+    text-decoration: none;
+   
+    padding: 10px 20px;
+    color:black;
+    border-radius: 10px;
+}
+.five:hover{
+    background-color: darkslateblue ;
+    color:whitesmoke;
+}
+#about:hover{
+    background-color: darkslateblue ;
+    color:whitesmoke;
+}
+#about{
+
+    display:inline-block;
+    border-style: none;
+    color:black;
+    border-radius: 5px;
+    border-width: 10px;
+    background-color:#E6E6FA;
+    font-size: 17px;
+}
+.six{
+    text-align: center;
+    font-size: 30px;
+}
+
+#stay{
+    display: inline-block;
+    color:blue;
+}
+#inline{
+    display: inline-block;
+    color:green;
+}
+#intro{
+    font-size: 20px;
+    color:grey;
+    text-align: left;
+    padding: 40px;
+    margin:40px
+
+}
+
+.dbox{
+    background-color: blue;
+    height: 50px;
+    padding: 50px;
+    margin: 90;
+   
+   
+}
+
+#or{
+    display: inline-block;
+}
+#er{
+    display: inline-block;
+}
+#br{
+    display: inline-block;
+}
+#pr{
+    display: inline-block;
+}
+#op{
+    display: inline-block;
+    color:whitesmoke;
+}
+#ss{
+    display: inline-block;
+    color:lightgreen; 
+}
+#n{
+    display: inline-block;
+    color:whitesmoke;
+}
+#o{
+    display: inline-block;
+    color:whitesmoke;
+}
+#w{
+    display: inline-block;
+    color:whitesmoke;
+}
+#t{
+    display: inline-block;
+    color:whitesmoke;
+}
+#e{
+    display: inline-block;
+    color:whitesmoke;
+}
+#r{
+    display: inline-block;
+    color:whitesmoke;
+}
+#ok{
+    display: inline-block;
+    color:blue;
+}
+#ay{
+    display: inline-block;
+    color:green;
+}
+.seven{
+    text-align: center;
+}
